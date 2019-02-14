@@ -1,2 +1,2 @@
 # cherryPy-bake
-is CherryPy really a CMF?
+CherryPy as CMF
