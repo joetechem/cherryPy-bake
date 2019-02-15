@@ -4,5 +4,6 @@ python:
 install:
   - pip install cherrypy
   - pip install pytest
+  - pip install pytest-cov
 script:
-  - pytest
+  - pytest --cov=j --cov-report term-missing j-testfile.py
