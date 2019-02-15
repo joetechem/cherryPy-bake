@@ -1,5 +1,5 @@
 """
-Make the Data Persisi
+Make the Data Persist
 (store user session)
 The application will replace the storage of
 the generated string from the session to a SQLite database.

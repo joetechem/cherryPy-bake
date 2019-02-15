@@ -1,5 +1,7 @@
 # cherryPy-bake
-CherryPy as CMF
+CherryPy as CMF  
+
+[![Build Status](https://travis-ci.org/joetechem/cherryPy-bake.svg?branch=master)](https://travis-ci.org/joetechem/cherryPy-bake)
 
 # CherryPy is     
 
